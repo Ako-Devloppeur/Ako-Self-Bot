@@ -1,0 +1,15 @@
+                                     // Config le Ako Self \\                       
+
+1 - Extraire le dossier "node_module.rar" & "Node Module 2" & "self.js"
+2 - Déplacer les fichier du "Node Module 2" dans le "node_module"
+3 - ajouter le token de votre compte discord dans le config.json  | recup son token tuto : https://youtu.be/HT1GyN6fJ5A
+4 - Ajouter le prefix de votre choix
+5 - Si vous voulez juste utilisez le self bot alors lancer le "start.bat"
+6 - si vous rencontrez des problème --> >Ako’ZΞP#1401 or https://discord.gg/yEYnVYn9gm
+7 - certaines cmd ne fonctionneront surement plus lors de leur utilisation tous ces problème seront régler a chaque nouvelle version du self
+8 - Pour avoir une nouvelle version il vous suffit de vous rendre sur le serv support dans le channel "new-version"
+9 - Regarder votre "version.json" si la version du .json n'est pas egale a celle du "new-version"
+
+                     ! Je suis en aucun résponsable de ce que vous allez faire avec le self bot !
+
+                     / Je rapelle que le sef bot est interdit par discord donc passible de ban \
